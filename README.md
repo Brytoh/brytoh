@@ -12,9 +12,6 @@ Hi There, I'm **Brytoh Ochieng**. I'm a Front-end Developer, Software Developer,
 
 [![Brytoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/Brytoh)
 
-[![committers.top badge](https://user-badge.committers.top/kenya/Brytoh.svg)](https://user-badge.committers.top/kenya/Brytoh)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark)](https://git.io/streak-stats)
-![](https://github-profile-trophy.vercel.app/?username=Brytoh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 ## 🌐 Socials:
