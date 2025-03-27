@@ -62,7 +62,7 @@ _(Replace with real projects!)_
 ---
 
 ## 🌐 Connect With Me
-📧 **Email:** [brytohochieng@gmail.com](mailto:brytohochieng@gmail.com)
+📧 **Email:** (mailto:brytohochieng@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/brighton-ochieng-689840316)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](your-twitter-link)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](your-instagram-link)
