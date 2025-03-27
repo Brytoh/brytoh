@@ -9,17 +9,17 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 ---
 
 ## 🏆 GitHub Trophies & Achievements
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brytoh&theme=algolia&no-frame=true&no-bg=true&margin-w=5)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Brytoh&theme=radical&no-frame=true&margin-w=5)
 
 ---
 
 ## 🔥 GitHub Stats & Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark&hide_border=true&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&title_color=FFA500&text_color=FFD700)  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&theme=github-dark)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=gruvbox&hide_border=true&ring=FFA500&fire=FF4500&currStreakLabel=FFD700)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true&title_color=FF4500&text_color=FFA500)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&theme=react-dark)  
 
 ⏳ **Time spent coding this week:**
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brytoh&theme=dark&layout=compact)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brytoh&theme=dracula&layout=compact)
 
 ⭐ **Total Stars Earned:**  
 ![GitHub Stars](https://img.shields.io/github/stars/Brytoh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)
@@ -27,7 +27,7 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 ---
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brytoh&layout=compact&theme=highcontrast&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brytoh&layout=compact&theme=tokyonight&count_private=true)
 
 ---
 
