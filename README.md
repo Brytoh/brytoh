@@ -35,7 +35,7 @@ Hi There, I'm **Brytoh Ochieng**. I'm a Front-end Developer, Software Developer,
 ![](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=radical) <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark&hide_border=false)<br/>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Brytoh&langs_count=20&theme=dracula&layout=compact) <br>
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=Brytoh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Brytoh/github-readme-stats)
+<!--[![](https://github-readme-stats.vercel.app/api/wakatime?username=Brytoh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/Brytoh/github-readme-stats)-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Brytoh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
