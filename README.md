@@ -43,11 +43,11 @@ Hi There, I'm **Brytoh Ochieng**. I'm a Front-end Developer, Software Developer,
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Brytoh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### ✍️ Random Dev Quote
+<!--### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Visit counts
+<!--## Visit counts
 [![](https://visitcount.itsvg.in/api?id=Brytoh&icon=0&color=0)](https://visitcount.itsvg.in)<br>
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Brytoh&title=Visitcount&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Brytoh&title=Visitcount&edge_flat=false)-->
 
 Created by **Brytoh**
