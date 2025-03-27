@@ -4,7 +4,7 @@
 I’m passionate about **building clean, efficient, and user-friendly web applications**. I specialize in **frontend and backend development** and love solving real-world problems through technology.  
 
 ☕ **Buy Me a Coffee**  
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/YOUR-USERNAME)
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/buymeacoffee.com/Brytoh)   
 
 ---
 
