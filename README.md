@@ -15,14 +15,14 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 
 ## 🔥 GitHub Stats & Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=gruvbox&hide_border=true&ring=FFA500&fire=FF4500&currStreakLabel=FFD700)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true&title_color=FF4500&text_color=FFA500)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true&title_color=FF4500&text_color=aqua)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&theme=react-dark)  
 
 ⏳ **Time spent coding this week:**
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brytoh&theme=dracula&layout=compact)
 
 ⭐ **Total Stars Earned:**  
-![GitHub Stars](https://img.shields.io/github/stars/Brytoh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=aqua)
+![GitHub Stars](https://img.shields.io/github/stars/Brytoh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)
 
 ---
 
