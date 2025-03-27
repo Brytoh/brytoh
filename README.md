@@ -7,6 +7,9 @@
 [![committers.top badge](https://user-badge.committers.top/kenya/Brytoh.svg)](https://user-badge.committers.top/kenya/Brytoh)<br>
 Hi There, I'm **Brytoh Ochieng**. I'm a Front-end Developer, Software Developer, Back-end Developer, and App Developer.<br>I'm looking forward to collaborating on Open-Source Projects. <br>
 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark&hide_border=false)
+
 [![Brytoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/Brytoh)
 
 ## 🌐 Socials:
@@ -20,10 +23,6 @@ Hi There, I'm **Brytoh Ochieng**. I'm a Front-end Developer, Software Developer,
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Brytoh) 
 
 
-![](https://github-profile-trophy.vercel.app/?username=Brytoh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-[![committers.top badge](https://user-badge.committers.top/kenya/Brytoh.svg)](https://committers.top/kenya)
 
 
 # 💻 Tech Stack:
