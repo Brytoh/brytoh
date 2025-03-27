@@ -17,6 +17,12 @@ Welcome to my portfolio repository! This is where I showcase my work as a web de
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark&hide_border=true)  
+
+📫 **Reach me on:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin)  
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat-square&logo=twitter)](your-twitter)
+
 ## How to View
 Check out my live projects [here](https://tekbrytoh-portfolio.netlify.app/)!
 
