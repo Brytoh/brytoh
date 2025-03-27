@@ -20,6 +20,12 @@ Hi There, I'm **Brytoh Ochieng**. I'm a Front-end Developer, Software Developer,
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Brytoh) 
 
 
+![](https://github-profile-trophy.vercel.app/?username=Brytoh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+[![committers.top badge](https://user-badge.committers.top/kenya/Brytoh.svg)](https://committers.top/kenya)
+
+
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
