@@ -9,7 +9,7 @@ Hi There, I'm **Brytoh Ochieng**. I'm a Front-end Developer, Software Developer,
 
 [![Brytoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&bg_color=0d1117&color=58a6ff&line=6effe6&point=ffffff&area=true&hide_border=true&width=800&height=500&custom=wave&border_radius=20&theme=dracula)](https://github.com/Brytoh)
 
-<br>## 🌐 Socials:
+## 🌐 Socials:
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brytohochieng@gmail.com) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/254797438003)
