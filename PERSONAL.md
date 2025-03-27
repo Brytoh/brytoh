@@ -7,7 +7,7 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 
 ## 🔥 GitHub Stats & Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&token=YOUR_GITHUB_TOKEN)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&theme=react-dark)  
 
 ⏳ **Time spent coding this week:**
@@ -16,7 +16,7 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 ---
 
 ## 📊 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brytoh&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brytoh&layout=compact&theme=dark&count_private=true)
 
 ---
 
