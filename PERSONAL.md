@@ -14,8 +14,8 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 ---
 
 ## 🔥 GitHub Stats & Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=highcontrast&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=onedark&hide_border=true&count_private=true&include_all_commits=true&token=YOUR_GITHUB_TOKEN)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=carrot&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=wheat&hide_border=true&count_private=true&include_all_commits=true&token=YOUR_GITHUB_TOKEN)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&theme=github-dark)  
 
 ⏳ **Time spent coding this week:**
