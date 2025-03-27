@@ -44,7 +44,7 @@ Hi There, I'm **Brytoh Ochieng**. I'm a Front-end Developer, Software Developer,
 ![](https://github-contributor-stats.vercel.app/api?username=Brytoh&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <!--### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)-->
 
 <!--## Visit counts
 [![](https://visitcount.itsvg.in/api?id=Brytoh&icon=0&color=0)](https://visitcount.itsvg.in)<br>
