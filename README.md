@@ -1,5 +1,5 @@
 # Hi there, I'm **✨ Brytoh ✨** 👋
-🚀 **Web Developer | UI/UX Designer | Tech Enthusiast**  
+🚀 **Web Developer | UI/UX Designer | Tech Enthusiast**   
 
 I’m passionate about **building clean, efficient, and user-friendly web applications**. I specialize in **frontend and backend development** and love solving real-world problems through technology.  
 
