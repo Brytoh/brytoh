@@ -22,7 +22,7 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brytoh&theme=dracula&layout=compact)
 
 ⭐ **Total Stars Earned:**  
-![GitHub Stars](https://img.shields.io/github/stars/Brytoh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)
+![GitHub Stars](https://img.shields.io/github/stars/Brytoh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=aqua)
 
 ---
 
