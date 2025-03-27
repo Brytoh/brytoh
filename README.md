@@ -1,10 +1,10 @@
 # Hi there, I'm **✨ Brytoh ✨** 👋
-🚀 **Web Developer | UI/UX Designer | Tech Enthusiast**   
+🚀 **Web Developer | UI/UX Designer | Tech Enthusiast**  
 
 I’m passionate about **building clean, efficient, and user-friendly web applications**. I specialize in **frontend and backend development** and love solving real-world problems through technology.  
 
-☕ **Buy Me a Coffee**  
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/Brytoh)   
+☕ **Buy Me a Coffee**   
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](your-coffee-link)
 
 ---
 
@@ -15,14 +15,14 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 
 ## 🔥 GitHub Stats & Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=gruvbox&hide_border=true&ring=FFA500&fire=FF4500&currStreakLabel=FFD700)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true&title_color=FF4500&text_color=aqua)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=cobalt&hide_border=true&count_private=true&include_all_commits=true&title_color=FF4500&text_color=FFA500)  
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Brytoh&theme=react-dark)  
 
 ⏳ **Time spent coding this week:**
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brytoh&theme=dracula&layout=compact)
 
 ⭐ **Total Stars Earned:**  
-![GitHub Stars](https://img.shields.io/github/stars/Brytoh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=yellow)
+![GitHub Stars](https://img.shields.io/github/stars/Brytoh?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=aqua)
 
 ---
 
@@ -53,9 +53,10 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 ---
 
 ## 📌 Pinned Projects
+<!-- These are my pinned projects. I'll update or modify them later. -->
 🔹 [**Project 1**](https://github.com/Brytoh/project1) - Short description of the project.  
 🔹 [**Project 2**](https://github.com/Brytoh/project2) - Short description of the project.  
-🔹 [**Project 3**](https://github.com/Brytoh/project3) - Short description of the project.  
+🔹 [**Project 3**](https://github.com/Brytoh/project3) - Short description of the project.  -->
 
 _(Replace with real projects!)_
 
