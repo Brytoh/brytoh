@@ -12,7 +12,7 @@ Welcome to my portfolio repository! This is where I showcase my work as a web de
 - Clean, modern interfaces
 
  Technologies Used
-- HTML, CSS, JavaScript
+- HTML https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white, CSS, JavaScript
 - React.js
 - Figma for design
 
