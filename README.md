@@ -21,5 +21,5 @@ Check out my live projects [here](https://myportfoliobrytoh.com)!
 
 ## Contact
 Feel free to reach out:
-- [Email](mailto:brytohochieng@example.com)
-- [LinkedIn](https://linkedin.com/in/brytoh)
+- [Email](mailto:brytohochieng@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/brighton-ochieng-689840316)
