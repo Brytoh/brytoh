@@ -26,6 +26,10 @@ Welcome to my portfolio repository! This is where I showcase my work as a web de
 ## How to View
 Check out my live projects [here](https://tekbrytoh-portfolio.netlify.app/)!
 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Brytoh&show_icons=true&theme=dark)
+
+
 ## Contact
 Feel free to reach out:
 - [Email](mailto:brytohochieng@gmail.com)
