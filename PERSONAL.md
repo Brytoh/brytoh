@@ -19,6 +19,9 @@ Welcome to my portfolio repository! This is where I showcase my work as a web de
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark&hide_border=true) 
 
+### 📊 Most Used Languages:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brytoh&layout=compact&theme=dark)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Brytoh&color=blue)
 
 
