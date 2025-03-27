@@ -1,7 +1,10 @@
-# Hi there, I'm Brytoh 👋
+# Hi there, I'm **✨ Brytoh ✨** 👋
 🚀 **Web Developer | UI/UX Designer | Tech Enthusiast**  
 
 I’m passionate about **building clean, efficient, and user-friendly web applications**. I specialize in **frontend and backend development** and love solving real-world problems through technology.  
+
+☕ **Buy Me a Coffee**  
+[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](your-coffee-link)
 
 ---
 
