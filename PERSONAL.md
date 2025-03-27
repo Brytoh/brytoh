@@ -53,12 +53,12 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 ---
 
 ## 📌 Pinned Projects
-<!-- These are my pinned projects. I'll update or modify them later. -->
+<!-- These are my pinned projects. I'll update or modify them later. 
 🔹 [**Project 1**](https://github.com/Brytoh/project1) - Short description of the project.  
 🔹 [**Project 2**](https://github.com/Brytoh/project2) - Short description of the project.  
 🔹 [**Project 3**](https://github.com/Brytoh/project3) - Short description of the project.  -->
 
-_(Replace with real projects!)_
+
 
 ---
 
