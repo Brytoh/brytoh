@@ -3,8 +3,8 @@
 
 I’m passionate about **building clean, efficient, and user-friendly web applications**. I specialize in **frontend and backend development** and love solving real-world problems through technology.  
 
-☕ **Buy Me a Coffee**   
-[![Buy Me A Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](your-coffee-link)
+☕ **Buy Me a Coffee**  
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/YOUR-USERNAME)
 
 ---
 
@@ -53,12 +53,12 @@ I’m passionate about **building clean, efficient, and user-friendly web applic
 ---
 
 ## 📌 Pinned Projects
-<!-- These are my pinned projects. I'll update or modify them later. 
+<!-- These are my pinned projects. I'll update or modify them later. -->
 🔹 [**Project 1**](https://github.com/Brytoh/project1) - Short description of the project.  
 🔹 [**Project 2**](https://github.com/Brytoh/project2) - Short description of the project.  
 🔹 [**Project 3**](https://github.com/Brytoh/project3) - Short description of the project.  -->
 
-
+_(Replace with real projects!)_
 
 ---
 
