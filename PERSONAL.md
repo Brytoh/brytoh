@@ -17,7 +17,11 @@ Welcome to my portfolio repository! This is where I showcase my work as a web de
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Brytoh&theme=dark&hide_border=true) 
+
+![Profile Views](https://komarev.com/ghpvc/?username=Brytoh&color=blue)
+
+
 
 📫 **Reach me on:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](your-linkedin)  
